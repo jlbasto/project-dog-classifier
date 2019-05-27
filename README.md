@@ -1,7 +1,6 @@
 # Dog classification
 
-## Project breefing
-
+## Project briefing
 
 It is a CNN that addresses the classification of the dog breed, made in the Udacity's nanodegree. Given the image of a dog or a human, it classifies the type of animal it is and if a dog is recognized, it tries to determine which breed it belongs to.
 

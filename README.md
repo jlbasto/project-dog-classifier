@@ -16,4 +16,4 @@ It is a CNN that addresses the classification of the dog breed, made in the Udac
 
 ## Use a GPU for the training process
 
-Using a GPU instead of a CPU, will speed up your training development and the project overall. But be careful, if you don't have one on your computer, you can use one from Amazon or Google. Some of them are free other are not.
+Using a GPU instead of a CPU, will speed up your training development and the project overall. But be careful, if you don't have one on your computer, you can use one from Amazon or Google. Some of them are free others are not.
